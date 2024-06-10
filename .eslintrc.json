@@ -1,0 +1,7 @@
+{
+    "parserOptions": {
+      "ecmaVersion": 2020, // Specify the ECMAScript version
+      "sourceType": "module" // Specify the source type (module or script)
+    }
+  }
+  
